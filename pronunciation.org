@@ -1,11 +1,11 @@
-#+TITLE: Uitspraak (Pronunciation)
+* Uitspraak (Pronunciation)
 
-* Introduction
+** Introduction
 
-* Consonants
+** Consonants
 
-* Vowels
-** Monophthongs
-** Diphthongs
-** Length
+** Vowels
+*** Monophthongs
+*** Diphthongs
+*** Length
 

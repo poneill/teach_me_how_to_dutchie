@@ -17,12 +17,12 @@
 ** Vowels
 *** Monophthongs
 **** Long
-   - *aa*/*a*, like in 'cat'.
-   - *ee*/*e*: like in 'hail', but with lips drawn back (clown face).
+   - *aa/a*, like in 'cat'.
+   - *ee/e*: like in 'hail', but with lips drawn back (clown face).
    - *ie* like 'ee'.
    - *oe* like English 'oo'.
    - *eu* like vowel in 'hurt' or 'verb', (uuh?!) but with lips rounded.
-   - *uu*/*u* like German 'ue'.
+   - *uu/u* like German 'ue'.
    - *oo* like in 'boat', but shorter with lips rounded.
    - *oe* long 'u', like in English shoe.
 **** Short
@@ -33,11 +33,11 @@
    - *u* without English equivalent. "Like 'dirt', but shorter".
 
 *** Diphthongs
-    - *ei*/*ij* as in "late".
+    - *ei/ij* as in "late".
     - *aai* as in 'eye'.
     - *oei* as in Spanish 'uy'.
     - *ooi* as in 'oi', but longer.
-    - *ou*/*au* as in "shout", but first vowel closer to "shot".
+    - *ou/au* as in "shout", but first vowel closer to "shot".
     - *eeuw*: *ee* + *oe*.
     - *ieuw*: *ie* + *oe*.
     - *uw*: as in "eew" (English exclamation of disgust).

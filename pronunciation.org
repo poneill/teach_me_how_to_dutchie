@@ -15,12 +15,23 @@
 
 
 ** Vowels
-
-  - **oo** like in 'boat', but shorter with lips rounded.
-
-  - **oe** long 'u', like in English shoe.
-  
 *** Monophthongs
+**** Long
+   - **aa**/**a**, like in 'cat'.
+   - **ee**/**e**: like in 'hail', but with lips drawn back (clown face).
+   - **ie** like 'ee'.
+   - **oe** like English 'oo'.
+   - **eu** like vowel in 'hurt' or 'verb', (uuh?!) but with lips rounded.
+   - **uu**/**u** like German 'ue'.
+   - **oo** like in 'boat', but shorter with lips rounded.
+   - **oe** long 'u', like in English shoe.
+**** Short
+   - **a** like Spanish 'a' (ah).
+   - **e** like 'bet'.
+   - **i** like 'bit'.
+   - **o** like 'pot'.
+   - **u** without English equivalent. "Like 'dirt', but shorter".
+
 *** Diphthongs
-*** Length
+
 

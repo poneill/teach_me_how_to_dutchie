@@ -3,34 +3,34 @@
 ** Consonants
    Dutch consonants can be pronounced as in English, with the following exceptions/remarks:
 
-   - **p**,**t**,and **k** are unaspirated in initial position. 
-   - **ch** like in German. 
-   - **sch** like "sg".  No 'k' sound.  ("Sch" is often mispelt as "sg" by Dutch schoolchildren).
-   - **w** not quite as in English 'w', but close enough.
-   - **v** not quite as in English 'v', but close enough.
-   - **r** guttural, in the back of the throat.
-   - **j** like English 'y'.
-   - **sj** like English 'sh'.
-   - **tj** like English 'ch'.
+   - *p*,*t*,and *k* are unaspirated in initial position. 
+   - *ch* like in German. 
+   - *sch* like "sg".  No 'k' sound.  ("Sch" is often mispelt as "sg" by Dutch schoolchildren).
+   - *w* not quite as in English 'w', but close enough.
+   - *v* not quite as in English 'v', but close enough.
+   - *r* guttural, in the back of the throat.
+   - *j* like English 'y'.
+   - *sj* like English 'sh'.
+   - *tj* like English 'ch'.
 
 
 ** Vowels
 *** Monophthongs
 **** Long
-   - **aa**/**a**, like in 'cat'.
-   - **ee**/**e**: like in 'hail', but with lips drawn back (clown face).
-   - **ie** like 'ee'.
-   - **oe** like English 'oo'.
-   - **eu** like vowel in 'hurt' or 'verb', (uuh?!) but with lips rounded.
-   - **uu**/**u** like German 'ue'.
-   - **oo** like in 'boat', but shorter with lips rounded.
-   - **oe** long 'u', like in English shoe.
+   - *aa*/*a*, like in 'cat'.
+   - *ee*/*e*: like in 'hail', but with lips drawn back (clown face).
+   - *ie* like 'ee'.
+   - *oe* like English 'oo'.
+   - *eu* like vowel in 'hurt' or 'verb', (uuh?!) but with lips rounded.
+   - *uu*/*u* like German 'ue'.
+   - *oo* like in 'boat', but shorter with lips rounded.
+   - *oe* long 'u', like in English shoe.
 **** Short
-   - **a** like Spanish 'a' (ah).
-   - **e** like 'bet'.
-   - **i** like 'bit'.
-   - **o** like 'pot'.
-   - **u** without English equivalent. "Like 'dirt', but shorter".
+   - *a* like Spanish 'a' (ah).
+   - *e* like 'bet'.
+   - *i* like 'bit'.
+   - *o* like 'pot'.
+   - *u* without English equivalent. "Like 'dirt', but shorter".
 
 *** Diphthongs
 

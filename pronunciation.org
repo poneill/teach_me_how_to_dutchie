@@ -3,7 +3,7 @@
 ** Consonants
    Dutch consonants can be pronounced as in English, with the following exceptions/remarks:
 
-   - *p*,*t*,and *k* are unaspirated in initial position. 
+   - *p*, *t*, and *k* are unaspirated in initial position. 
    - *ch* like in German. 
    - *sch* like "sg".  No 'k' sound.  ("Sch" is often mispelt as "sg" by Dutch schoolchildren).
    - *w* not quite as in English 'w', but close enough.

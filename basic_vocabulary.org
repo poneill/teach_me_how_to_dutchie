@@ -1,0 +1,101 @@
+- come :: komen
+- get :: krijgen
+- give :: geven
+- go :: gaan
+- keep :: houden
+- let :: laten
+- make :: maken
+- put :: zetten
+- seem :: lijken (like)
+- take :: nemen
+- be :: zijn
+- do :: doen
+- have :: hebben
+- say :: zeggen
+- see :: zien
+- look :: kijken
+- send :: zenden / sturen
+- may :: mogen
+- will :: zullen
+- about :: over
+- across :: over
+- after :: na
+- against :: tegen
+- among :: onder (e.g. onder vrienden)
+- at  :: in/op/bij/ten
+- before :: voor
+- between :: tussen
+- by :: bij
+- down :: beneden (beneath) / naar beneden (e.g. down to the river)
+- from :: van
+- in :: in
+- off :: af
+- on :: op
+- over :: over
+- through :: door
+- to :: naar (direction), aan (w/ person as i.o.)
+- under :: onder
+- up :: omhoog
+- with :: met
+- as :: als
+- for :: voor
+- of :: van
+- till :: tot
+- than :: dan
+- a :: een
+- the :: de/het
+- all :: alles (n) / alle (adj)
+- any :: elke
+- every :: alle
+- no :: nee / geen (adj) 
+- other :: ander
+- some :: sommige / enkele
+- such :: zulk (e.g. zulk meisje --Lies).
+- that :: dat (n. s.) / die (everything else)
+- this :: dit (n. s.) / deze (everything else)
+- I :: ik
+- he :: hij
+- you :: jij/u
+- who :: wie
+- and :: en
+- because :: omdat
+- but :: naar
+- or :: of
+- if :: als
+- though :: toch
+- while :: terwijl
+- how :: hoe
+- when :: waaneer
+- where :: waar
+- why :: waarom (wherefore)
+- again :: opnieuw
+- ever :: ooit
+- far :: ver
+- forward :: vooruit
+- here :: hier
+- near :: dichtbij
+- now :: nu
+- out :: uit
+- still :: nog steeds
+- then :: dan (about the present/future) / toen (about the past)
+- there :: daar / er (there is)
+- together :: samen
+- well :: wel / goed (alles gaat goed)
+- almost :: bijna
+- enough :: genoeg
+- even :: zelfs (e.g. ik heb zelfs een auto)
+- little :: klein (adj) weinig (adv)
+- very :: heel
+- much :: veel
+- not :: niet
+- only :: alleen
+- quite :: heel
+- so :: zo
+- tomorrow :: morgen
+- yesterday :: gisteren
+- north :: noord(en)
+- south :: zuid(en)
+- east :: oost(en)
+- west :: west(en)
+- please :: alsjeblieft/alsublieft
+- yes :: ja

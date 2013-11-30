@@ -99,3 +99,13 @@
 - west :: west(en)
 - please :: alsjeblieft/alsublieft
 - yes :: ja
+- inside :: binnen
+- head :: hoofd
+- therefore :: daarom (lit. there-for)
+- often :: vaak
+- clear :: helder
+- simple :: gewoon
+- to merge :: samensmelten
+- today :: vandaag
+
+

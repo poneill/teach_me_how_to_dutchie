@@ -9,10 +9,11 @@
 - seem :: lijken (like)
 - take :: nemen
 - be :: zijn
+- passive of to be :: worden
 - do :: doen
 - have :: hebben
 - say :: zeggen
-- see :: zien
+- see :: zien, schouwen
 - look :: kijken
 - send :: zenden / sturen
 - may :: mogen
@@ -37,7 +38,8 @@
 - under :: onder
 - up :: omhoog
 - with :: met
-- as :: als
+- as/if :: als
+- already :: al
 - for :: voor
 - of :: van
 - till :: tot
@@ -107,5 +109,43 @@
 - simple :: gewoon
 - to merge :: samensmelten
 - today :: vandaag
-
-
+- to pay :: betalen (mnemonic: Romans paid Judas thirty TALENts of silver)
+- diensten :: services (mnemonic: Dean of Academic SERVICES)
+- to start/initiate :: invoeren (Het parlement...voert en boete in).  
+- voice :: de stem (f) 
+- to vote :: stemmen (cognate with stem)
+- law :: de wet (f) (lady law wearing a blindfold)
+- design/proposal :: het ontwerp
+- ancestry/stock :: de komaf (m)
+- to stop (idiom) :: komaf maken met (to make history with)
+- total :: volledig
+- according to :: volgens (following)
+- to follow :: volgen
+- extra :: bijkomende (by-coming, on-top-of-coming)
+- course :: de cursus (m, as in latin) 
+- circumstances :: omstadigheden (om-standig-heden: around-standing-states)
+- wherein :: waarin
+- to happen :: gebeuren
+- to provide :: voorzien
+- in spite of :: ondanks (not thanks-to!)
+- abstention :: de turughoudenheid (f) (back-keeping-ness)
+- to fare :: varen (what ships do)
+- to delegate :: afvaardigen (off-fare) (ik vaardig iemand af)
+- delegates :: de afgevaardigden (afvaardigen -> [PP] afgevaardigd ->
+               afgevaardigden [substantive]
+- measure :: de maatregel (m) (measure-rule)
+- to call/shout :: roepen
+- herroepen :: to revoke (back-call)
+- to supervise :: begeleiden [leden = lead]
+- to hurt :: kwetsen
+- vulnerable :: kwetsbaar (hurtable)
+- next to :: naast
+- additionally :: daarnaast (there-next-to)
+- case :: het geval
+- pregnant :: zwanger
+- violence :: het geweld
+- act :: de daad
+- acts of violence :: gewelddaden
+- force :: de kracht (f)
+- rape :: de verkrachting (f) 
+- heavy :: zwaard

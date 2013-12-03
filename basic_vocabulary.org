@@ -128,7 +128,7 @@
 - to happen :: gebeuren
 - to provide :: voorzien
 - in spite of :: ondanks (not thanks-to!)
-- abstention :: de turughoudenheid (f) (back-keeping-ness)
+- abstention :: de turughoudendheid (f) (back-keeping-ness)
 - to fare :: varen (what ships do)
 - to delegate :: afvaardigen (off-fare) (ik vaardig iemand af)
 - delegates :: de afgevaardigden (afvaardigen -> [PP] afgevaardigd ->

@@ -67,7 +67,7 @@
 - though :: toch
 - while :: terwijl
 - how :: hoe
-- when :: waaneer
+- when :: wanneer
 - where :: waar
 - why :: waarom (wherefore)
 - again :: opnieuw
@@ -111,7 +111,7 @@
 - today :: vandaag
 - to pay :: betalen (mnemonic: Romans paid Judas thirty TALENts of silver)
 - diensten :: services (mnemonic: Dean of Academic SERVICES)
-- to start/initiate :: invoeren (Het parlement...voert en boete in).  
+- to start/initiate :: invoeren (Het parlement...voert een boete in).  
 - voice :: de stem (f) 
 - to vote :: stemmen (cognate with stem)
 - law :: de wet (f) (lady law wearing a blindfold)
@@ -148,4 +148,4 @@
 - acts of violence :: gewelddaden
 - force :: de kracht (f)
 - rape :: de verkrachting (f) 
-- heavy :: zwaard
+- heavy :: zwaar

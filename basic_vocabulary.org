@@ -149,3 +149,7 @@
 - force :: de kracht (f)
 - rape :: de verkrachting (f) 
 - heavy :: zwaar
+- forget :: vergeten
+- until :: tot, totdat
+- return :: turugkomen (back-come)
+- to read :: lezen

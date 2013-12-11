@@ -39,7 +39,7 @@
 - up :: omhoog
 - with :: met
 - as/if :: als
-- already :: al
+- already :: al,alvast
 - for :: voor
 - of :: van
 - till :: tot
@@ -70,6 +70,7 @@
 - when :: waaneer
 - where :: waar
 - why :: waarom (wherefore)
+- waarme :: with which (e.g. 17 dingen waar vegetariers mee moeten leven
 - again :: opnieuw
 - ever :: ooit
 - far :: ver
@@ -149,3 +150,28 @@
 - force :: de kracht (f)
 - rape :: de verkrachting (f) 
 - heavy :: zwaard
+- to hear :: horen.
+- lucky :: gelukkig
+- to put with (to take) :: maken krijgen met (Hier zijn alvast de 17 meest vervelen
+- to warn :: waarschuwden
+- gewaarschuwde vleesetende is er twee waard.
+- worth :: waard
+- fellow human :: medemens
+- for example :: bijvoorbeeld.
+- fabric :: stof
+- to give :: geven
+- indeed :: duidelijk, immers
+- to understand :: begrijpen
+- understanding :: begripvol
+- result :: gevolg
+- rush hour :: spitsuren
+- during :: tijdens
+- destination :: einbestemming
+- to finish :: aflopen
+- finished :: afgelopen
+- sometimes :: soms
+- feat :: huzarnstukje (hussar-piece???)
+- to get (become) :: geraken
+- developmental disorder :: ontwikkelingstoornis
+- to suffer :: lijden
+- to talk :: praten

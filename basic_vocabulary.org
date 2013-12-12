@@ -160,3 +160,5 @@
 - until :: tot, totdat
 - return :: turugkomen (back-come)
 - to read :: lezen
+- mostly :: meestal
+- to annoy :: ambeteren

@@ -1,7 +1,7 @@
 - diensten :: services (mnemonic: Dean of Academic SERVICES)
 - to vote :: stemmen (cognate with stem)
 - ancestry/stock :: de komaf (m)
-- abstention :: de turughoudendheid (f) (back-keeping-ness)
+- abstention :: de terughoudendheid (f) (back-keeping-ness)
 - to fare :: varen (what ships do)
 - to delegate :: afvaardigen (off-fare) (ik vaardig iemand af)
 - delegates :: de afgevaardigden (afvaardigen -> [PP] afgevaardigd ->
@@ -9,11 +9,11 @@
 - measure :: de maatregel (m) (measure-rule)
 - force :: de kracht (f)
 - rape :: de verkrachting (f) 
-- to warn :: waarschuwden (prov: gewaarschuwde vleesetende is er twee waard.)
+- to warn :: waarschuwen (prov: gewaarschuwde vleeseter is er twee waard.)
 - worth :: waard
 - fellow human :: medemens
 - fabric :: stof
 - rush hour :: spitsuren
-- destination :: einbestemming
-- feat :: huzarnstukje (hussar-piece???)
-
+- destination :: eindbestemming
+- feat :: huzarenstukje (hussar-piece???)
+- meat eater :: vleeseter
